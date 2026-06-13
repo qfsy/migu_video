@@ -436,7 +436,7 @@
         <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 1</title>
     </programme>
     <programme channel="CCTV5体育" start="20260613063000 +0800" stop="20260613070000 +0800">
-        <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 1</title>
+        <title lang="zh">实况录像-绿茵热潮—城市故事 洛杉矶</title>
     </programme>
     <programme channel="CCTV5体育" start="20260613070000 +0800" stop="20260613120000 +0800">
         <title lang="zh">2026世界杯-小组赛D组第一轮（美国—巴拉圭）</title>
@@ -462,11 +462,8 @@
     <programme channel="CCTV5体育" start="20260613200000 +0800" stop="20260613220000 +0800">
         <title lang="zh">2026年美加墨世界杯报道-豪门盛宴-3</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260613220000 +0800" stop="20260613230600 +0800">
+    <programme channel="CCTV5体育" start="20260613220000 +0800" stop="20260613235900 +0800">
         <title lang="zh">2026年美加墨世界杯报道-如约而至-3</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260613230600 +0800" stop="20260613235900 +0800">
-        <title lang="zh">实况录像-2026世界杯小组赛B组第一轮 加拿大队—波黑队</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
