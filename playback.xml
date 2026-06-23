@@ -103,10 +103,10 @@
         <title lang="zh">星月征途第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623205310 +0800" stop="20260623205630 +0800">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-种墨园-第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623205630 +0800" stop="20260623214430 +0800">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">种墨园1/34</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623214430 +0800" stop="20260623215200 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -588,13 +588,13 @@
     <programme channel="CCTV6电影" start="20260623162736 +0800" stop="20260623181127 +0800">
         <title lang="zh">雾都神探之绝情箭</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623181127 +0800" stop="20260623200000 +0800">
+    <programme channel="CCTV6电影" start="20260623181127 +0800" stop="20260623195950 +0800">
         <title lang="zh">杀破狼·贪狼</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623200000 +0800" stop="20260623210130 +0800">
+    <programme channel="CCTV6电影" start="20260623195950 +0800" stop="20260623205430 +0800">
         <title lang="zh">第23届电影频道传媒关注单元闭幕仪式01</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623210130 +0800" stop="20260623220000 +0800">
+    <programme channel="CCTV6电影" start="20260623205430 +0800" stop="20260623220000 +0800">
         <title lang="zh">第23届电影频道传媒关注单元闭幕仪式02</title>
     </programme>
     <programme channel="CCTV6电影" start="20260623220000 +0800" stop="20260623221800 +0800">
@@ -844,13 +844,13 @@
         <title lang="zh">本集提要-爱情有烟火-第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623212940 +0800" stop="20260623221940 +0800">
-        <title lang="zh">爱情有烟火15/36</title>
+        <title lang="zh">爱情有烟火第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623221940 +0800" stop="20260623222140 +0800">
-        <title lang="zh">本集提要-爱情有烟火-16/36</title>
+        <title lang="zh">本集提要-爱情有烟火-第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623222140 +0800" stop="20260623231140 +0800">
-        <title lang="zh">爱情有烟火16/36</title>
+        <title lang="zh">爱情有烟火第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623231140 +0800" stop="20260623235740 +0800">
         <title lang="zh">风雨送春归第12集</title>
@@ -3834,7 +3834,7 @@
     <programme channel="河北卫视" start="20260623233000 +0800" stop="20260623233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260623233300 +0800" stop="20260624000000 +0800">
+    <programme channel="河北卫视" start="20260623233300 +0800" stop="20260624000300 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
